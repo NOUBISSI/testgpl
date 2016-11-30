@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "bip-pod-dropbox": "^0.3.10"
+  },
+  "devDependencies": {
+    "bip-pod-dropbox": "^0.3.10",
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
   }
 }
