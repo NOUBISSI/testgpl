@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Juste pour tester le fonctionnement de npm-remote-ls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noums",
+  "license": "ISC",
+  "dependencies": {
+    "bip-pod-dropbox": "^0.3.10"
+  }
+}
